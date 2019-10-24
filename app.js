@@ -69,11 +69,3 @@ function filterTasks(e) {
     });
 
 }
-
-/*
-pegar o texto
-verificar se existe na lista de itens
-mostrar o valor se existir
-omitir se nao existir
-
-*/
